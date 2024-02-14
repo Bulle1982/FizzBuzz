@@ -12,7 +12,7 @@ function fizzBuzz() {
     output.push(count);
   }
   
-   count++;
+  count++;
   console.log(output);
 }
 
